@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+### My Study Room
+:red_car: [`CLICK!`](https://www.notion.so/HYEOKE-s-Study-5a44a9c05fc747618c7a6b9d0a869305)<br />
+### My Recent Project 
+- distributing : [`CLICK`](https://www.pvi.co.kr/)
+- github : [`CLICK`](https://github.com/hyeok0902e/numberone)
 
-:red_car:&nbsp;&nbsp;&nbsp;My Study Room : [`CLICK!`](https://www.notion.so/HYEOKE-s-Study-5a44a9c05fc747618c7a6b9d0a869305)<br />
-:blush:&nbsp;&nbsp;&nbsp;My Recent Project<br />
-  - distributing [`CLICK`](https://www.pvi.co.kr/)<br />
-  - github [`CLICK`](https://github.com/hyeok0902e/numberone)
+
 <!--
 **devhyeoke/devhyeoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
