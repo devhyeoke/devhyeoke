@@ -1,10 +1,10 @@
 # Hi there 👋
 ### My Study Room
 :red_car: [`CLICK!`](https://www.notion.so/HYEOKE-s-Study-5a44a9c05fc747618c7a6b9d0a869305)<br />
-### My Recent Project 
+### My Recent Project 1 
 - distributing : [`CLICK`](https://www.pvi.co.kr/)
 - github : [`CLICK`](https://github.com/hyeok0902e/numberone)
-
+- langauge : javascript
 
 <!--
 **devhyeoke/devhyeoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
